@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PokéGo CP</string>
+
+    <!-- Notification -->
+    <string name="notification_title">PokéGo CP</string>
+    <string name="notification_content">Tap to show CP calculator.</string>
+</resources>
